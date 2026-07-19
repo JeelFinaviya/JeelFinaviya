@@ -1,142 +1,257 @@
-# Hi, I'm Jeel Finaviya
+<div align="center">
 
-<h3>Computer Science Student • Full Stack Developer • AI Enthusiast</h3>
+# Hi there, I'm Jeel Finaviya 👋
 
-<p align="left">
+### Computer Science Student • Full Stack Developer • AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Building+Scalable+Web+Applications;Learning+DSA+%26+System+Design;Open+Source+Contributor+in+Progress" alt="Typing SVG" />
+
+<p>
 Building scalable web applications, exploring Artificial Intelligence, and continuously improving through Data Structures & Algorithms.
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=JeelFinaviya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+I'm a **Computer Science student** passionate about building scalable software and solving real-world problems with technology.
+
+My interests span across **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Backend Engineering**.
+
+I enjoy transforming ideas into products while continuously learning modern software engineering practices.
+
+### Currently
+
+- 🌱 Learning **Data Structures & Algorithms**
+- 📚 Exploring **System Design**
+- 🤖 Building AI-powered applications
+- 🚀 Improving backend architecture
+- 💡 Looking for Software Engineering Internship opportunities
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
+
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&width=600&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Learning+DSA+%7C+System+Design+%7C+Machine+Learning" alt="Typing SVG" />
-</p>
-
----
-
-## About Me
-
-I'm a Computer Science student from **Surat, Gujarat, India** with a strong interest in software engineering, backend development, and Artificial Intelligence.
-
-Currently focused on strengthening my problem-solving skills through Data Structures & Algorithms while building full-stack applications using modern technologies.
-
-I enjoy creating practical software that combines clean engineering with AI-powered features.
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
 </p>
 
-### Frontend
+## Frontend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### Backend
+## Backend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
-### Database
+## Database
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools
+## Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## Featured Projects
+# 💻 Skills
 
-### AI FocusGuard
-
-AI-powered study monitoring platform built using **Django**, **OpenCV**, **MediaPipe**, **React**, and **MongoDB**.
-
-**Highlights**
-
-- Real-time face detection
-- Eye tracking
-- Head pose estimation
-- Focus prediction
-- Study analytics dashboard
-- AI-assisted monitoring
+| Category | Technologies |
+|-----------|--------------|
+| Languages | Java • Python • JavaScript • C |
+| Frontend | HTML • CSS • React • Tailwind CSS |
+| Backend | Node.js • Express.js • Django |
+| Database | MongoDB • MySQL |
+| AI | OpenCV • MediaPipe |
+| Version Control | Git • GitHub |
+| Tools | VS Code • Postman |
 
 ---
 
-### Express API Boilerplate
+# 📊 GitHub Analytics
 
-A production-ready Express.js starter template featuring authentication, clean project structure, middleware setup, and REST API best practices.
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-### React Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&theme=github_dark&hide_border=true"/>
 
-A collection of modern React applications focused on responsive UI, reusable components, API integration, and performance.
-
----
-
-### Java Projects
-
-Object-Oriented Programming, Data Structures, Algorithms, and desktop application development using Java.
+</div>
 
 ---
 
-## Currently Learning
+# 🔥 GitHub Streak
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JeelFinaviya&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeelFinaviya&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JeelFinaviya&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JeelFinaviya/JeelFinaviya/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 AI FocusGuard
+
+> AI-powered student focus monitoring platform.
+
+### Tech Stack
+
+- React
+- Django
+- OpenCV
+- MediaPipe
+- MongoDB
+
+### Features
+
+- 👁 Eye Tracking
+- 🧠 Focus Prediction
+- 🎯 Head Pose Detection
+- 📊 Study Analytics Dashboard
+- 📈 AI-based Monitoring
+
+---
+
+## ⚙️ Express API Boilerplate
+
+Production-ready Express.js backend architecture featuring:
+
+- REST APIs
+- Authentication Ready
+- Clean Folder Structure
+- Middleware
+- Error Handling
+- MongoDB Integration
+
+---
+
+## ☕ Java Projects
+
+Collection of Java projects including
+
+- Object-Oriented Programming
 - Data Structures
-- Algorithms
-- System Design
-- Machine Learning
-- Computer Vision
+- Swing Applications
+- JDBC Projects
 
 ---
 
-## GitHub Analytics
+## ⚛️ React Projects
 
-<p align="center">
+Modern React applications featuring
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ftjeel-&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftjeel-&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ftjeel-&theme=github-dark&hide_border=true"/>
-
-</p>
+- Responsive UI
+- API Integration
+- Reusable Components
+- Clean Architecture
 
 ---
 
-## Connect
+# 📖 Currently Learning
 
-<p>
+```text
+✔ Data Structures & Algorithms
 
-<a href="https://github.com/ftjeel-">
-GitHub
+✔ System Design
+
+✔ Backend Scalability
+
+✔ Machine Learning Fundamentals
+
+✔ Computer Vision
+
+✔ Open Source Contribution
+```
+
+---
+
+# 🎯 Goals for 2026
+
+- Crack a Software Engineering Internship
+- Strengthen DSA problem-solving skills
+- Master System Design fundamentals
+- Contribute to Open Source projects
+- Build production-ready Full Stack applications
+- Explore AI & Computer Vision projects
+- Grow GitHub with impactful repositories
+- Maintain consistent coding habits
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/JeelFinaviya">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-  
+
+<a href="https://www.linkedin.com/in/jeel-finaviya/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:jeelfinaviya@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-*"Consistency compounds. Keep building."*
+### 💡 "Code. Learn. Build. Repeat."
 
-<br><br>
+*"Great software is built one commit at a time."*
 
-<img src="https://komarev.com/ghpvc/?username=ftjeel-&style=flat-square&color=58A6FF" />
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
 
 </div>
