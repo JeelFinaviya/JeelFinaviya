@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi there, I'm Jeel Finaviya 👋
 
@@ -254,4 +254,4 @@ Modern React applications featuring
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
 
-</div>
+</div> -->
