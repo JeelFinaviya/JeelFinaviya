@@ -129,68 +129,69 @@ Daily Data Structures & Algorithms solutions.
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&theme=github_dark"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&theme=github_dark"/>
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=JeelFinaviya&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JeelFinaviya&theme=github-dark"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeelFinaviya&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=JeelFinaviya&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" />
+</p>
+---
+
+## 📜 Certificates
+
+- 🏅 IBM Python for Data Science
+- 🏅 IBM Data Analysis with Python
+- 🏅 IBM Machine Learning
+- 🏅 IBM Web Development
+- 🏅 Coursera Professional Certificates
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeelFinaviya&theme=github-dark"/>
+<a href="https://github.com/JeelFinaviya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jeel-finaviya-8930ba370">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/JeelFinaviya">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JeelFinaviya&theme=algolia&column=4"/>
-
-</p>
-
----
-
-# 📚 Certificates
-
-- IBM Python
-- IBM Data Analysis
-- IBM Machine Learning
-- Coursera Certifications
-
----
-
-# 🤝 Connect With Me
-
-LinkedIn
-
-Portfolio
-
-Email
-
-LeetCode
-
-GitHub
 
 ---
 
