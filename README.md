@@ -132,9 +132,9 @@ Daily Data Structures & Algorithms solutions.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&theme=dark&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&theme=dark&hide_border=true" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
 </p>
 
 ---
@@ -142,8 +142,11 @@ Daily Data Structures & Algorithms solutions.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JeelFinaviya&theme=dark&hide_border=true" width="70%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=JeelFinaviya&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 </p>
+
+---
+
 
 ## 📈 Contribution Graph
 
