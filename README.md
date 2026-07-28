@@ -1,136 +1,84 @@
-<!-- <div align="center">
+<h1 align="center">Hi 👋, I'm Jeel Finaviya</h1>
 
-# Hi there, I'm Jeel Finaviya 👋
+<h3 align="center">
+Computer Science Student • Full Stack Developer • AI Enthusiast
+</h3>
 
-### Computer Science Student • Full Stack Developer • AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Building+Scalable+Web+Applications;Learning+DSA+%26+System+Design;Open+Source+Contributor+in+Progress" alt="Typing SVG" />
-
-<p>
-Building scalable web applications, exploring Artificial Intelligence, and continuously improving through Data Structures & Algorithms.
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=JeelFinaviya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-# 💫 About Me
-
-I'm a **Computer Science student** passionate about building scalable software and solving real-world problems with technology.
-
-My interests span across **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Backend Engineering**.
-
-I enjoy transforming ideas into products while continuously learning modern software engineering practices.
-
-### Currently
-
-- 🌱 Learning **Data Structures & Algorithms**
-- 📚 Exploring **System Design**
-- 🤖 Building AI-powered applications
-- 🚀 Improving backend architecture
-- 💡 Looking for Software Engineering Internship opportunities
-
----
-
-# 🚀 Tech Stack
-
-## Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
-</p>
-
-## Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-## Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
-
-## Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-## Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="center">
+Building projects, solving problems and continuously learning.
 </p>
 
 ---
 
-# 💻 Skills
+# 🚀 About Me
 
-| Category | Technologies |
-|-----------|--------------|
-| Languages | Java • Python • JavaScript • C |
-| Frontend | HTML • CSS • React • Tailwind CSS |
-| Backend | Node.js • Express.js • Django |
-| Database | MongoDB • MySQL |
-| AI | OpenCV • MediaPipe |
-| Version Control | Git • GitHub |
-| Tools | VS Code • Postman |
+- 🎓 Computer Science Student
+- 💻 Interested in Full Stack Development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🌱 Currently learning Data Structures & Algorithms
+- 🔨 Building real-world web applications using MERN & Django
+- 🎯 Looking for Software Development Internship opportunities
 
 ---
 
-# 📊 GitHub Analytics
+# 🛠 Tech Stack
 
-<div align="center">
+### Languages
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&theme=github_dark&hide_border=true"/>
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
 
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JeelFinaviya&theme=github-dark-blue&hide_border=true"/>
-
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-# 📈 Contribution Graph
+### Frontend
 
-<div align="center">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeelFinaviya&theme=github-dark&hide_border=true&area=true"/>
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 
-</div>
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JeelFinaviya&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
 
 ---
 
-# 🐍 Contribution Snake
+### Backend
 
-<div align="center">
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
-<img src="https://raw.githubusercontent.com/JeelFinaviya/JeelFinaviya/output/github-contribution-grid-snake-dark.svg"/>
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-</div>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
+
+---
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+### Tools
+
+Git • GitHub • VS Code • Postman • Thunder Client • IntelliJ IDEA
+
+---
+
+# 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- System Design Basics
+- Machine Learning
+- Computer Vision
+- Advanced React
+- Backend Architecture
 
 ---
 
@@ -138,120 +86,112 @@ I enjoy transforming ideas into products while continuously learning modern soft
 
 ## 🤖 AI FocusGuard
 
-> AI-powered student focus monitoring platform.
+An AI-powered study monitoring platform that uses Computer Vision and Machine Learning to analyze focus level.
 
-### Tech Stack
+**Features**
 
-- React
-- Django
-- OpenCV
-- MediaPipe
-- MongoDB
+- Face Detection
+- Eye Tracking
+- Sleep Detection
+- Head Pose Detection
+- Focus Prediction
+- Dashboard Analytics
 
-### Features
+**Tech Stack**
 
-- 👁 Eye Tracking
-- 🧠 Focus Prediction
-- 🎯 Head Pose Detection
-- 📊 Study Analytics Dashboard
-- 📈 AI-based Monitoring
+React • Django REST Framework • OpenCV • MediaPipe • Machine Learning
 
 ---
 
-## ⚙️ Express API Boilerplate
+## 📊 Student Performance Analysis Dashboard
 
-Production-ready Express.js backend architecture featuring:
+A web application for analyzing student performance using data visualization and machine learning.
 
+**Features**
+
+- Dashboard
+- Charts
+- Performance Prediction
+- Data Cleaning
 - REST APIs
-- Authentication Ready
-- Clean Folder Structure
-- Middleware
-- Error Handling
-- MongoDB Integration
 
 ---
 
-## ☕ Java Projects
+## 🌐 MERN CRUD Application
 
-Collection of Java projects including
-
-- Object-Oriented Programming
-- Data Structures
-- Swing Applications
-- JDBC Projects
+A complete CRUD web application with authentication and MongoDB integration.
 
 ---
 
-## ⚛️ React Projects
+## 📚 DSA Repository
 
-Modern React applications featuring
-
-- Responsive UI
-- API Integration
-- Reusable Components
-- Clean Architecture
+Daily Data Structures & Algorithms solutions.
 
 ---
 
-# 📖 Currently Learning
+# 📈 GitHub Stats
 
-```text
-✔ Data Structures & Algorithms
+<p align="center">
 
-✔ System Design
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&theme=github_dark"/>
 
-✔ Backend Scalability
-
-✔ Machine Learning Fundamentals
-
-✔ Computer Vision
-
-✔ Open Source Contribution
-```
-
----
-
-# 🎯 Goals for 2026
-
-- Crack a Software Engineering Internship
-- Strengthen DSA problem-solving skills
-- Master System Design fundamentals
-- Contribute to Open Source projects
-- Build production-ready Full Stack applications
-- Explore AI & Computer Vision projects
-- Grow GitHub with impactful repositories
-- Maintain consistent coding habits
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/JeelFinaviya">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jeel-finaviya/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:jeelfinaviya@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&theme=github_dark"/>
 
 </p>
 
 ---
 
-<div align="center">
+# 🔥 GitHub Streak
 
-### 💡 "Code. Learn. Build. Repeat."
+<p align="center">
 
-*"Great software is built one commit at a time."*
+<img src="https://streak-stats.demolab.com?user=JeelFinaviya&theme=github-dark"/>
+
+</p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
+# 📈 Contribution Graph
 
-</div> -->
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeelFinaviya&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JeelFinaviya&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+# 📚 Certificates
+
+- IBM Python
+- IBM Data Analysis
+- IBM Machine Learning
+- Coursera Certifications
+
+---
+
+# 🤝 Connect With Me
+
+LinkedIn
+
+Portfolio
+
+Email
+
+LeetCode
+
+GitHub
+
+---
+
+⭐ Always learning, always building.
