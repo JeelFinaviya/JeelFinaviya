@@ -187,19 +187,20 @@ A practical MERN application developed to understand frontend-backend communicat
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&hide_border=true&theme=transparent" height="165" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=JeelFinaviya&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=JeelFinaviya&hide_border=true&theme=transparent" height="165" />
 
 </div>
+
 
 ---
 
