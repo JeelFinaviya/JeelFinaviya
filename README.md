@@ -1,181 +1,177 @@
-<h1 align="center">Hi 👋, I'm Jeel Finaviya</h1>
+# 👋 Hi, I'm Jeel Finaviya
 
-<h3 align="center">
-Computer Science Student | Full Stack Developer | AI Enthusiast
-</h3>
+### Computer Science Student · Full Stack Developer · AI Enthusiast
 
-<p align="center">
-Passionate about building scalable web applications, exploring Artificial Intelligence, and solving real-world problems through code.
-</p>
+I'm a Computer Science & Information Technology student interested in **full-stack development, artificial intelligence, and building practical software solutions**.
+
+I primarily work with **Python, JavaScript, React, Node.js, Django, databases, and computer vision**, and I'm currently strengthening my problem-solving and backend development skills.
 
 ---
 
-# 🚀 About Me
+## About Me
 
-- 🎓 Computer Science Student
-- 💻 Full Stack Web Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🌱 Currently learning Data Structures & Algorithms
-- 🚀 Exploring MERN Stack, Django & REST APIs
-- 🎯 Looking for Software Development Internship Opportunities
+* 🎓 B.Tech. Computer Science & Information Technology student
+* 💻 Interested in Full Stack Web Development
+* 🤖 Exploring AI, Machine Learning & Computer Vision
+* ⚛️ Working with React, Node.js & Django
+* 🗄️ Working with MongoDB & MySQL
+* 📚 Currently practicing Data Structures & Algorithms
+* 🔧 Enjoy building projects to learn and apply new technologies
+* 🎯 Looking for Software Development / Full Stack Internship opportunities
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite" />
 </p>
 
-### Backend
+### Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
-### Database
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
+
+### AI / Data / Computer Vision
+
+`OpenCV` · `MediaPipe` · `NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib`
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## Featured Projects
 
-- 📚 Data Structures & Algorithms
-- 🧠 Machine Learning
-- 👁 Computer Vision
-- ⚡ Django REST Framework
-- ⚛ Advanced React
-- 🏗 Backend Architecture
+### 🤖 FocusGuard AI
 
----
+**AI-powered study focus monitoring platform**
 
-# ⭐ Featured Projects
+A full-stack application that combines **Computer Vision and Machine Learning** to monitor study sessions and provide focus-related insights.
 
-## 🤖 AI FocusGuard
+**Features**
 
-AI-powered study monitoring platform using Computer Vision and Machine Learning.
-
-### Features
-
-- Face Detection
-- Eye Tracking
-- Sleep Detection
-- Head Pose Estimation
-- Focus Prediction
-- Analytics Dashboard
+* Face detection
+* Eye monitoring
+* Eye-closure / sleep detection
+* Head pose monitoring
+* Focus prediction
+* Real-time alerts
+* Focus analytics dashboard
+* Study session insights
 
 **Tech Stack**
 
-React • Django REST Framework • OpenCV • MediaPipe • Machine Learning
+`React` · `Django REST Framework` · `OpenCV` · `MediaPipe` · `NumPy` · `Pandas` · `Scikit-learn`
 
 ---
 
-## 📊 Student Performance Analysis Dashboard
+### 📊 Student Performance Analysis
 
-A data-driven dashboard to analyze and predict student performance.
+A data analysis project focused on processing student datasets, visualizing performance patterns, and exploring prediction using machine learning.
 
-### Features
+**Features**
 
-- Interactive Dashboard
-- Data Cleaning
-- Data Visualization
-- Performance Prediction
-- REST API
+* Data preprocessing
+* Data cleaning
+* Data visualization
+* Performance analysis
+* Prediction
+* REST API
 
 **Tech Stack**
 
-Django • Pandas • NumPy • Matplotlib • Scikit-learn
+`Python` · `Django` · `Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn`
 
 ---
 
-## 🌐 MERN CRUD Application
+### 🌐 MERN CRUD Application
 
-A complete CRUD application with authentication and MongoDB integration.
+A full-stack CRUD application developed to work with frontend, backend, REST APIs, authentication, and MongoDB.
+
+**Features**
+
+* User authentication
+* Create, read, update & delete operations
+* REST API integration
+* MongoDB database
+* React frontend
+* Node.js backend
 
 **Tech Stack**
 
-MongoDB • Express • React • Node.js
+`MongoDB` · `Express.js` · `React` · `Node.js`
 
 ---
 
-## 📚 DSA Journey
+## Currently Learning
 
-Daily practice of Data Structures & Algorithms with optimized solutions and explanations.
-
----
-
-# 📜 Certifications
-
-- 🏅 IBM Python for Data Science
-- 🏅 IBM Data Analysis with Python
-- 🏅 IBM Machine Learning
-- 🏅 IBM Web Development Fundamentals
-- 🏅 Coursera Professional Certificates
+* Data Structures & Algorithms
+* Advanced React
+* Django REST Framework
+* Backend architecture
+* Machine Learning
+* Computer Vision
 
 ---
 
-# 📌 Goals for 2026
+## Certifications
 
-- ✅ Solve 300+ DSA Problems
-- ✅ Build 10+ Real-World Projects
-- ✅ Master MERN Stack
-- ✅ Learn Advanced Django
-- ✅ Explore AI & Computer Vision
-- ✅ Secure a Software Development Internship
+* IBM — Python for Data Science
+* IBM — Data Analysis with Python
+* IBM — Machine Learning
+* IBM — Web Development Fundamentals
 
 ---
 
-# 📈 GitHub Activity
+## 2026 Goals
 
-- 💻 Consistently building projects
-- 🚀 Learning new technologies
-- 📚 Daily DSA practice
-- 🤝 Open to collaboration
-- ⭐ Always improving
+* Improve problem-solving and DSA skills
+* Build and deploy more real-world applications
+* Strengthen full-stack development
+* Go deeper into Django and REST APIs
+* Explore advanced AI and Computer Vision
+* Contribute to open-source projects
+* Secure a Software Development Internship
 
 ---
 
-# 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/JeelFinaviya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-</p>
-
----
-
-<p align="center">
-⭐ <b>"Always Learning • Always Building • Always Growing"</b> ⭐
 </p>
