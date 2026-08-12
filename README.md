@@ -187,19 +187,22 @@ A practical MERN application developed to understand frontend-backend communicat
 
 ---
 
-## 📊 GitHub Activity
+## 📂 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
+<a href="https://github.com/JeelFinaviya">
+  <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&hide_border=true&theme=transparent" height="165" />
+ 
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=JeelFinaviya&hide_border=true&theme=transparent" height="165" />
+<a href="https://github.com/JeelFinaviya/AI-FocusGuard">
+  <img src="https://img.shields.io/badge/Featured%20Project-AI--FocusGuard-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
+
 
 
 ---
