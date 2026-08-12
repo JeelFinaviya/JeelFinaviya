@@ -1,177 +1,259 @@
-# 👋 Hi, I'm Jeel Finaviya
+<!-- ===================== HEADER ===================== -->
 
-### Computer Science Student · Full Stack Developer · AI Enthusiast
+<div align="center">
 
-I'm a Computer Science & Information Technology student interested in **full-stack development, artificial intelligence, and building practical software solutions**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=220&section=header&text=Jeel%20Finaviya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
-I primarily work with **Python, JavaScript, React, Node.js, Django, databases, and computer vision**, and I'm currently strengthening my problem-solving and backend development skills.
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+practical+software+solutions;Exploring+AI+%26+Computer+Vision;Developing+full-stack+applications;Learning+by+building+real+projects" />
 
-## About Me
-
-* 🎓 B.Tech. Computer Science & Information Technology student
-* 💻 Interested in Full Stack Web Development
-* 🤖 Exploring AI, Machine Learning & Computer Vision
-* ⚛️ Working with React, Node.js & Django
-* 🗄️ Working with MongoDB & MySQL
-* 📚 Currently practicing Data Structures & Algorithms
-* 🔧 Enjoy building projects to learn and apply new technologies
-* 🎯 Looking for Software Development / Full Stack Internship opportunities
+</div>
 
 ---
 
-## Tech Stack
+## 👨‍💻 About Me
+
+I'm a **Computer Science & Information Technology student** interested in building practical software using modern web technologies and AI.
+
+My main areas of interest are **Full Stack Development, Artificial Intelligence, Computer Vision, and Backend Development**.
+
+I enjoy taking an idea, turning it into a working application, and learning from the problems that come along the way.
+
+```text
+Currently working with:
+Python • Java • JavaScript • React • Node.js • Django
+MongoDB • MySQL • OpenCV • MediaPipe • Scikit-learn
+```
+
+🎓 B.Tech. Computer Science & Information Technology
+💻 Full Stack Development
+🤖 AI / Computer Vision
+📚 Currently practicing DSA
+🎯 Open to Software Development & Full Stack Internship opportunities
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite" />
 
-### Backend & APIs
+### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
-### Databases
+### Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 ### AI / Data / Computer Vision
 
-`OpenCV` · `MediaPipe` · `NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib`
+<img src="https://skillicons.dev/icons?i=opencv" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 FocusGuard AI</h3>
+
+<p align="center">
+AI-powered study focus monitoring platform
 </p>
 
----
+A full-stack application combining **Computer Vision and Machine Learning** to monitor study sessions and generate focus-related insights.
 
-## Featured Projects
+**What it does**
 
-### 🤖 FocusGuard AI
+* 👁️ Face & eye monitoring
+* 😴 Eye-closure detection
+* 📐 Head pose monitoring
+* 🧠 Focus prediction
+* 🔔 Real-time alerts
+* 📊 Analytics dashboard
+* 📈 Study session insights
 
-**AI-powered study focus monitoring platform**
+**Stack**
 
-A full-stack application that combines **Computer Vision and Machine Learning** to monitor study sessions and provide focus-related insights.
+`React` `Django REST` `OpenCV` `MediaPipe` `Scikit-learn`
 
-**Features**
+</td>
 
-* Face detection
-* Eye monitoring
-* Eye-closure / sleep detection
-* Head pose monitoring
-* Focus prediction
-* Real-time alerts
-* Focus analytics dashboard
-* Study session insights
+<td width="50%" valign="top">
 
-**Tech Stack**
+<h3 align="center">📊 Student Performance Analysis</h3>
 
-`React` · `Django REST Framework` · `OpenCV` · `MediaPipe` · `NumPy` · `Pandas` · `Scikit-learn`
+<p align="center">
+Data analysis & prediction dashboard
+</p>
 
----
+A data-driven application for processing student datasets, analyzing performance patterns, visualizing results, and exploring machine-learning-based prediction.
 
-### 📊 Student Performance Analysis
-
-A data analysis project focused on processing student datasets, visualizing performance patterns, and exploring prediction using machine learning.
-
-**Features**
+**What it does**
 
 * Data preprocessing
 * Data cleaning
-* Data visualization
+* Visualization
 * Performance analysis
 * Prediction
 * REST API
 
-**Tech Stack**
+**Stack**
 
-`Python` · `Django` · `Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn`
+`Python` `Django` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
 
----
+</td>
+</tr>
 
-### 🌐 MERN CRUD Application
+<tr>
+<td width="50%" valign="top">
 
-A full-stack CRUD application developed to work with frontend, backend, REST APIs, authentication, and MongoDB.
+<h3 align="center">🌐 MERN CRUD Application</h3>
 
-**Features**
+<p align="center">
+Full-stack CRUD application
+</p>
 
-* User authentication
-* Create, read, update & delete operations
-* REST API integration
-* MongoDB database
+A practical MERN application built to understand frontend-backend communication, REST APIs, authentication, and database operations.
+
+**What it includes**
+
+* Authentication
+* CRUD operations
+* REST APIs
+* MongoDB
 * React frontend
 * Node.js backend
 
-**Tech Stack**
+**Stack**
 
-`MongoDB` · `Express.js` · `React` · `Node.js`
+`MongoDB` `Express` `React` `Node.js`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧩 DSA Practice</h3>
+
+<p align="center">
+Problem solving with Python
+</p>
+
+I'm currently practicing fundamental data structures and algorithms to improve problem-solving and coding skills.
+
+**Topics**
+
+`Arrays` `Strings` `Linked Lists` `Stacks` `Queues` `Recursion` `Searching` `Sorting`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
-* Data Structures & Algorithms
-* Advanced React
-* Django REST Framework
-* Backend architecture
-* Machine Learning
-* Computer Vision
+<div align="center">
 
----
+| Area        | Focus                                 |
+| ----------- | ------------------------------------- |
+| 🧠 DSA      | Problem solving & algorithms          |
+| ⚛️ React    | Advanced concepts & architecture      |
+| ⚡ Django    | REST APIs & backend development       |
+| 🤖 AI       | Machine Learning & Computer Vision    |
+| 🏗️ Backend | API design & application architecture |
 
-## Certifications
-
-* IBM — Python for Data Science
-* IBM — Data Analysis with Python
-* IBM — Machine Learning
-* IBM — Web Development Fundamentals
+</div>
 
 ---
 
-## 2026 Goals
+## 📜 Certifications
 
-* Improve problem-solving and DSA skills
+🏅 **IBM — Python for Data Science**
+🏅 **IBM — Data Analysis with Python**
+🏅 **IBM — Machine Learning**
+🏅 **IBM — Web Development Fundamentals**
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&hide_border=true&theme=transparent" height="165"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=JeelFinaviya&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+* Improve DSA and problem-solving skills
 * Build and deploy more real-world applications
 * Strengthen full-stack development
-* Go deeper into Django and REST APIs
-* Explore advanced AI and Computer Vision
+* Improve backend architecture knowledge
+* Explore advanced AI & Computer Vision
 * Contribute to open-source projects
 * Secure a Software Development Internship
 
 ---
 
-## Connect With Me
+## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/JeelFinaviya">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e293b,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
