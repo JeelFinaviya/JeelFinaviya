@@ -1,166 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:2563eb&height=230&section=header&text=Jeel%20Finaviya&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20IT%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=61&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:2563eb&height=220&section=header&text=Jeel%20Finaviya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%26%20IT%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Building+practical+software;Exploring+AI+%26+Computer+Vision;Developing+full-stack+applications;Strengthening+DSA+%26+problem-solving;Learning+through+real+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+practical+software;Exploring+AI+%26+Computer+Vision;Developing+full-stack+applications;Strengthening+DSA+%26+problem-solving;Learning+through+real+projects" alt="Typing animation"/>
 
 <br><br>
 
 <a href="https://github.com/JeelFinaviya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/jeel-finaviya-8930ba370/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/JeelFinaviya/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 &nbsp;
 <a href="mailto:ft.jeel@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=JeelFinaviya&label=Profile%20Views&color=2563eb&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=JeelFinaviya&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About
+# 👋 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+Hi, I'm **Jeel Finaviya**.
 
-### Hi, I'm Jeel 👋
+I'm a **Computer Science & Information Technology student** focused on building practical software and developing strong foundations in software engineering.
 
-I'm a **Computer Science & Information Technology student** focused on learning software development through practical projects.
-
-My current interests are centered around:
+My current areas of focus are:
 
 * 🌐 Full Stack Development
-* ⚙️ Backend & REST APIs
-* 🤖 Artificial Intelligence
+* ⚙️ Backend & REST API Development
+* 🤖 Artificial Intelligence & Machine Learning
 * 👁️ Computer Vision
 * 🧩 Data Structures & Algorithms
 
-I primarily work with **Java and Python**, while building applications with technologies from the **MERN and Django ecosystems**.
+I primarily work with **Java and Python**, while building applications using technologies from the **MERN and Django ecosystems**.
 
-I'm currently looking for opportunities to **learn from experienced developers, contribute to real-world projects, and grow through hands-on development.**
-
-</td>
-
-<td width="35%" valign="top">
-
-### 🎓 Education
-
-**B.Tech.**
-
-Computer Science &
-Information Technology
-
-**LJ University**
-
-📍 Ahmedabad, India
-
-<br>
-
-### 🔎 Looking For
-
-Software Development
-Full Stack Development
-Internship Opportunities
-
-</td>
-</tr>
-</table>
+I'm currently looking for opportunities where I can **contribute to real projects, learn from experienced developers, and continue improving as a software developer.**
 
 ---
 
-# 🧭 Developer Snapshot
+# 🧭 At a Glance
 
 <div align="center">
 
-|     🧩 Focus    |    🛠️ Technologies   |      📚 Learning     |
-| :-------------: | :-------------------: | :------------------: |
-|    Full Stack   | React · Node · Django |    Advanced React    |
-|     Backend     |  Express · REST APIs  | Backend Architecture |
-|     AI / ML     | Python · Scikit-learn |    ML Applications   |
-| Computer Vision |   OpenCV · MediaPipe  |      CV Projects     |
-| Problem Solving |     Java · Python     |          DSA         |
+|   🎓 Education  | 💻 Primary Focus |     🤖 Exploring     |     🎯 Looking For     |
+| :-------------: | :--------------: | :------------------: | :--------------------: |
+| B.Tech. CS & IT |    Full Stack    | AI & Computer Vision |  Software Internships  |
+|  LJ University  |      Backend     |   Machine Learning   | Full Stack Internships |
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
-### 💻 Languages
+## 💻 Programming Languages
 
-<div align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
-
-</div>
-
-### 🎨 Frontend
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 
 </div>
 
-### ⚙️ Backend
+## 🎨 Frontend
 
-<div align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-
-</div>
-
-### 🗄️ Databases
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 
 </div>
 
-### 🤖 AI / Data / Computer Vision
+## ⚙️ Backend & APIs
 
-<div align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=opencv" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
 
 </div>
 
-### 🔧 Tools
+## 🗄️ Databases
 
-<div align="left">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
+</div>
+
+## 🤖 AI / Data / Computer Vision
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+
+</div>
+
+## 🔧 Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Work
+# 🚀 Featured Projects
 
-> A selection of projects that represent what I'm currently learning and building.
+<div align="center">
+
+### Selected projects representing my current development work
+
+</div>
 
 ---
 
@@ -168,27 +151,32 @@ Internship Opportunities
 
 ### AI-powered study focus monitoring platform
 
-**FocusGuard** combines **Computer Vision, Machine Learning, and full-stack development** to analyze study sessions and provide focus-related insights.
+A full-stack application combining **Computer Vision and Machine Learning** to analyze study sessions and provide focus-related insights.
 
-<div align="center">
+### 🔍 Core Features
 
-| 👁️ Monitoring |      🧠 Analysis      |    📊 Insights   |
-| :------------: | :-------------------: | :--------------: |
-| Face Detection |    Focus Prediction   |  Focus Analytics |
-| Eye Monitoring | Productivity Analysis | Session Tracking |
-|    Head Pose   |       ML Models       | Real-time Alerts |
+| Feature             | Purpose                                           |
+| :------------------ | :------------------------------------------------ |
+| 👁️ Eye Monitoring  | Detects eye closure and monitors visual attention |
+| 🙂 Face Detection   | Tracks face presence during sessions              |
+| 🧭 Head Pose        | Monitors head orientation                         |
+| 🎯 Focus Prediction | Estimates study focus using ML                    |
+| 📊 Analytics        | Provides study-session insights                   |
+| 🔔 Alerts           | Generates real-time attention alerts              |
 
-</div>
+### 🧰 Technology
 
-### Technology
-
-`React` · `Node.js` · `Django REST Framework` · `OpenCV` · `MediaPipe` · `NumPy` · `Pandas` · `Scikit-learn`
+`React` `Node.js` `Django REST Framework` `OpenCV` `MediaPipe` `NumPy` `Pandas` `Scikit-learn`
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/JeelFinaviya/AI-FocusGuard">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View AI-FocusGuard"/>
 </a>
+
+</div>
 
 ---
 
@@ -196,37 +184,52 @@ Internship Opportunities
 
 ### Java-based academic management application
 
-A Java project developed to strengthen understanding of **Object-Oriented Programming, application logic, data management, and desktop application development**.
+A Java project developed to strengthen **Object-Oriented Programming, application logic, data management, and desktop application development** through a practical academic use case.
 
-### Focus
+### 🔍 Focus Areas
 
-`Java` · `OOP` · `Java Swing`
-
-**Key Areas**
-
-* Object-oriented programming
-* Desktop application development
+* Object-Oriented Programming
+* Java application development
+* Java Swing
 * Data management
 * User interaction
 * Application structure
 
+### 🧰 Technology
+
+`Java` `OOP` `Java Swing`
+
 <br>
 
+<div align="center">
+
 <a href="https://github.com/JeelFinaviya/CampusXcal-Java-System">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View CampusXcal"/>
 </a>
+
+</div>
 
 ---
 
 ## 📊 Student Performance Analysis
 
-### Data analysis & prediction
+### Data analysis and prediction project
 
-A Python-based project focused on working with student datasets, analyzing performance patterns, visualizing results, and exploring machine-learning-based prediction.
+A Python-based project focused on processing student datasets, identifying performance patterns, visualizing results, and exploring machine-learning-based prediction.
 
-**Areas**
+### 🔍 Areas Covered
 
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn` · `Django`
+* Data preprocessing
+* Data cleaning
+* Exploratory data analysis
+* Data visualization
+* Performance analysis
+* Machine-learning-based prediction
+* REST API integration
+
+### 🧰 Technology
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Django`
 
 ---
 
@@ -234,89 +237,52 @@ A Python-based project focused on working with student datasets, analyzing perfo
 
 ### Full-stack CRUD application
 
-A practical MERN project built to strengthen understanding of frontend-backend communication, REST APIs, authentication, and database operations.
+A practical MERN project developed to strengthen understanding of frontend-backend communication, REST APIs, authentication, and database operations.
 
-**Areas**
+### 🔍 Areas Covered
 
-`MongoDB` · `Express.js` · `React` · `Node.js`
+* React frontend
+* Node.js backend
+* Express REST APIs
+* MongoDB
+* Authentication
+* CRUD operations
+* API integration
 
----
+### 🧰 Technology
 
-# 📚 Learning Roadmap
-
-<div align="center">
-
-```text
-                CURRENT LEARNING PATH
-
-        ┌─────────────────────────────┐
-        │   Data Structures & Algo    │
-        └──────────────┬──────────────┘
-                       ↓
-        ┌─────────────────────────────┐
-        │     Full Stack Development  │
-        └──────────────┬──────────────┘
-                       ↓
-        ┌─────────────────────────────┐
-        │       Backend & APIs        │
-        └──────────────┬──────────────┘
-                       ↓
-        ┌─────────────────────────────┐
-        │        AI / Computer Vision │
-        └──────────────┬──────────────┘
-                       ↓
-        ┌─────────────────────────────┐
-        │     Deployment & Systems    │
-        └─────────────────────────────┘
-```
-
-</div>
-
-### 🧩 Data Structures & Algorithms
-
-`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Problem Solving`
-
-### ⚛️ React
-
-`Hooks` · `Components` · `Context API` · `Routing` · `Forms` · `API Integration`
-
-### ⚡ Backend
-
-`Node.js` · `Express.js` · `Django` · `REST APIs` · `Authentication` · `MongoDB`
-
-### 🤖 AI / ML
-
-`Scikit-learn` · `Computer Vision` · `OpenCV` · `MediaPipe` · `Model Development`
+`MongoDB` `Express.js` `React` `Node.js`
 
 ---
 
-# 📈 GitHub Activity
+# 📚 Current Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=JeelFinaviya&theme=github-dark-blue&hide_border=true" />
+| Area              | Current Focus                                              |
+| :---------------- | :--------------------------------------------------------- |
+| 🧩 **DSA**        | Problem solving and core data structures                   |
+| ⚛️ **React**      | Hooks, routing, state management and application structure |
+| ⚡ **Django**      | REST APIs and backend development                          |
+| 🤖 **AI / ML**    | Machine learning and computer vision                       |
+| 🏗️ **Backend**   | API design and application architecture                    |
+| ☁️ **Deployment** | Understanding deployment workflows                         |
 
 </div>
 
 ---
 
-# 🧩 Problem Solving
+# 🧠 Problem Solving
 
 <div align="center">
 
 <a href="https://leetcode.com/u/JeelFinaviya/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br><br>
 
-**Currently strengthening Data Structures & Algorithms through regular practice.**
+<strong>Currently strengthening Data Structures & Algorithms through regular practice.</strong>
 
 </div>
 
@@ -337,18 +303,18 @@ A practical MERN project built to strengthen understanding of frontend-backend c
 
 ---
 
-# 🎯 Current Focus
+# 🌱 What I'm Working Toward
 
 <div align="center">
 
-### Building → Learning → Improving
+### Learn → Build → Test → Improve
 
 </div>
 
-* 🧩 Strengthening DSA and programming fundamentals
+* 🧩 Strengthening programming and DSA fundamentals
 * 🌐 Building more complete full-stack applications
 * ⚙️ Improving backend and API development
-* 🤖 Exploring practical AI and Computer Vision
+* 🤖 Exploring practical AI and Computer Vision applications
 * ☁️ Learning deployment and application architecture
 * 🌱 Contributing to open-source projects
 * 💼 Preparing for software development internships
@@ -360,19 +326,17 @@ A practical MERN project built to strengthen understanding of frontend-backend c
 <div align="center">
 
 <a href="https://github.com/JeelFinaviya">
-<img src="https://img.shields.io/badge/ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
 </a>
 
- 
+<br><br>
 
 <a href="https://github.com/JeelFinaviya/AI-FocusGuard">
-<img src="https://img.shields.io/badge/AI--FOCUSGUARD-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI--FOCUSGUARD-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="AI-FocusGuard"/>
 </a>
 
- 
-
 <a href="https://github.com/JeelFinaviya/CampusXcal-Java-System">
-<img src="https://img.shields.io/badge/CAMPUSXCAL-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/CAMPUSXCAL-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="CampusXcal"/>
 </a>
 
 </div>
@@ -384,19 +348,19 @@ A practical MERN project built to strengthen understanding of frontend-backend c
 <div align="center">
 
 <a href="https://github.com/JeelFinaviya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jeel-finaviya-8930ba370/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://leetcode.com/u/JeelFinaviya/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="mailto:ft.jeel@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
