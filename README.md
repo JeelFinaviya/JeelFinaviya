@@ -106,10 +106,10 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=JeelFinaviya&show_icons=true&theme=tokyonight&count_private=true" alt="Jeel's GitHub Stats" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeelFinaviya&theme=tokyonight" alt="Jeel's GitHub Stats" width="100%"/>
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelFinaviya&layout=compact&theme=tokyonight&hide=html,css" alt="Jeel's Top Languages" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeelFinaviya&theme=tokyonight" alt="Jeel's Top Languages" width="100%"/>
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeelFinaviya&theme=tokyonight" alt="Jeel's GitHub Streak" width="100%"/>
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="https://leetcode-stats-card.herokuapp.com/?username=JeelFinaviya&theme=dark" alt="Jeel's LeetCode Stats" width="100%"/>
+      <img src="https://leetcard.jacoblin.cool/JeelFinaviya?theme=dark" alt="Jeel's LeetCode Stats" width="100%"/>
     </td>
   </tr>
 </table>
