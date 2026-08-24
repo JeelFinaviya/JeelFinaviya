@@ -1,21 +1,20 @@
 {
-  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
   "projects": [
     {
-      "repo": "dossier",
-      "description": "An immersive design-engineering portfolio. Fluid scroll inertia, geometric morphing, and typography that bends toward your cursor."
+      "repo": "AI-FocusGuard",
+      "description": "AI-powered study focus monitoring platform using computer vision and machine learning (OpenCV & MediaPipe) to analyze attention, drowsiness, posture, and session telemetry."
     },
     {
-      "repo": "Sage",
-      "description": "A local-first calendar that shapes your week around six productivity frameworks, with an assistant that plans according to the method you pick."
+      "repo": "CampusXcal-Java-System",
+      "description": "Java Swing/AWT and JDBC-based academic management system demonstrating robust OOP abstractions, secure transaction persistence, and dynamic record handling."
     },
     {
-      "repo": "Socrates",
-      "description": "Learn by teaching. Explain a concept to the AI, get caught on the parts you only half-understand, and prove you actually know it."
+      "repo": "Airport-Management-System",
+      "description": "Database-driven flight scheduling and passenger reservation system utilizing normalized MySQL schema, JDBC transactions, and HashMap-based in-memory caching."
     },
     {
-      "repo": "humanOS",
-      "description": "A gamified operating system for your life. Goals as interactive orbits, habit and mood tracking, and Gemini breaking objectives into daily tasks."
+      "repo": "DSA-Java",
+      "description": "A curated repository of Data Structures & Algorithms implementations in Java, covering recursion, stacks, queues, linked lists, and core problem-solving concepts."
     }
   ]
 }
